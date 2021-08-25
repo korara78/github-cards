@@ -1,5 +1,5 @@
 
-//imports 4:47 video 6 //
+
 import React from 'react';
 import './style.css';
 import axios from 'axios';
