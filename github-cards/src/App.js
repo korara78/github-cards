@@ -1,10 +1,9 @@
 
-
 import React from 'react';
 import './style.css';
 import axios from 'axios';
 
-const axios = require('axios').default;
+//const axios = require('axios').default;//
 
 
 // review Wrap Up
