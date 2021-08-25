@@ -10,6 +10,7 @@ Based on the Pluralsight course entitled "React: Getting Started" by Samar Buna.
 
 Further research (possibly incorrect importing code) is required to compile in Visual Studio code. I did get a working version published in the Code Pen environment at https://codepen.io/kevin-orara/full/BaRvzmg
 
+Otherwise this app is published on https://korara78.github.io/github-cards/
 
 # Getting Started with Create React App
 
