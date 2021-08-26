@@ -2,15 +2,9 @@ Github Cards App
 
 # Overview
 
-use axios.get(url) with a URL from an API endpoint to get a promise which returns a response object. Inside the response object, there is data that is then assigned the value for userName.
-//After user clicks Add Card, a setState call will pass in a userName value of empty string to reset the input box to blank again//
-
-
 Based on the Pluralsight course entitled "React: Getting Started" by Samar Buna. The course includes guideline instructions for creating a GitHub Cards App which allows the user to input and search for GitHub usernames. Their Profile is displayed on the screen. I opted to follow along the course and attempt to create this app in order to gain exposure to using the (sync-await functions) and with Axios which is a promise based HTTP client. 
 
-Further research (possibly incorrect importing code) is required to compile in Visual Studio code. I did get a working version published in the Code Pen environment at https://codepen.io/kevin-orara/full/BaRvzmg
-
-Otherwise this app is published on https://korara78.github.io/github-cards/
+This app is published on https://korara78.github.io/github-cards/
 
 # Getting Started with Create React App
 
