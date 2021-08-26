@@ -1,4 +1,3 @@
-
 import React from 'react';
 import './style.css';
 import axios from 'axios';
@@ -123,8 +122,9 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <div className="header">{this.props.title}</div>
+        <div className="header">{this.props.title}
         <h1>The GitHub Cards App</h1>
+        </div>
         <Form onSubmit={this.addNewProfile} />
         <CardList profiles={this.state.profiles} />
       </div>
