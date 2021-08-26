@@ -6,6 +6,8 @@ Based on the Pluralsight course entitled "React: Getting Started" by Samar Buna.
 
 This app is published on https://korara78.github.io/github-cards/
 
+If github-pages is down check app on code pen https://codepen.io/kevin-orara/full/BaRvzmg
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
